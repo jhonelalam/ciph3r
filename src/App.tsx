@@ -218,7 +218,7 @@ const App: React.FC = () => {
                   Download C.V.
                 </a>
             </div>
-]            <div className="grid grid-cols-1 lg:grid-cols-1 gap-6 mt-8">
+            <div className="grid grid-cols-1 lg:grid-cols-1 gap-6 mt-8">
               <img
                 className="w-full h-auto max-h-[400px] object-cover rounded-lg transition-all duration-300 hover:scale-105 hover:z-20 hover:saturate-150 hover:brightness-75 hover:hue-rotate-15"
                 src="./assets/images/monitor-sec.jpg"
